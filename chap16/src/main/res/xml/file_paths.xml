@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--파일 프로바이더용 XML-->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="myfiles"
+        path="Android/data/com.example.chap16/files/Pictures" />
+</paths>
